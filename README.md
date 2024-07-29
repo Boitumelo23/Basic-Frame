@@ -1,1 +1,1 @@
-The application shows a basic frame using JFrame class of swing.
+The application shows a basic frame using the JFrame class of swing.
